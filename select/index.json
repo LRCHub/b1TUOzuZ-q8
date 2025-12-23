@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Irish Coffee",
+  "base_artist": "BONNIE PINK",
+  "createdAt": "2025-12-23T11:58:27.506592Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Irish Coffee",
+      "artist": "Arms Aloft",
+      "has_synced": true,
+      "path": "select/01_Irish_Coffee_Arms_Aloft.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Irish Coffee",
+      "artist": "BONNIE PINK",
+      "has_synced": true,
+      "path": "select/02_Irish_Coffee_BONNIE_PINK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Irish Coffee",
+      "artist": "Pink, Bonnie",
+      "has_synced": true,
+      "path": "select/03_Irish_Coffee_Pink,_Bonnie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Irish Coffee",
+      "artist": "Samie-X",
+      "has_synced": false,
+      "path": "select/04_Irish_Coffee_Samie-X.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Irish Coffee",
+      "artist": "BONNIE PINK",
+      "has_synced": false,
+      "path": "select/pl_01_Irish_Coffee_BONNIE_PINK.txt"
+    }
+  ]
+}
